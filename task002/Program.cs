@@ -14,4 +14,3 @@ else
 {
     Console.WriteLine("Максимальное число " + b);
 }
-// ddwqerfqwerf
